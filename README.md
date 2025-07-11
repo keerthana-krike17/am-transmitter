@@ -2,7 +2,8 @@
 
 This project demonstrates the design and construction of an **AM (Amplitude Modulation) transmitter** capable of broadcasting analog audio signals over radio frequencies. The system uses RF circuits, a modulator, and an antenna system to achieve real-time transmission of audio from a mobile or microphone input.
 
-> 🎓 Second Year Mini Project  
+> 🎓 Second Year Mini Project
+> EC5402- Communication   
 > 🏫 MIT Campus, Anna University  
 > 📆 January 2024 – April 2024
 
